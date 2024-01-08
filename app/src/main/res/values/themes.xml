@@ -2,7 +2,16 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.FriendlyChat" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorButtonNormal">@drawable/button_selector</item>
+        <item name="colorButtonNormal">@drawable/button_selector</item>
+        <item name="android:buttonStyle">@style/FriendlyButtonStyle</item>
+
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
     </style>
 
     <style name="Theme.FriendlyChat" parent="Base.Theme.FriendlyChat" />
