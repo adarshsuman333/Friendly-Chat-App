@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006071860839",
+    "project_id": "friendlychat-daf09",
+    "storage_bucket": "friendlychat-daf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006071860839:android:bfe5aea7f5167caf4ecec2",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOyPovkGRwpCkNUoBBXqpid5BMEQGVW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
